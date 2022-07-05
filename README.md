@@ -271,7 +271,7 @@
 
 ### Typical interview construction
 
-1. Software Engineering (for more visit [Interview Preparation](https://github.com/Al-khali/Interview-Preparation) Repository)
+1. Software Engineering 
 2. Applied Statistics
 3. Machine Learning
 4. Data Wrangling, Manipulation and Visualisation
